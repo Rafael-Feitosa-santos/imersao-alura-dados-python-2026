@@ -5,4 +5,7 @@ O objetivo é explorar análise de dados com **Python**, utilizando bibliotecas 
 
 Acesse o projeto completo pelo link abaixo:  
 
-👉 [**Aplicação no Streamlit**](https://imersao-alura-dados-python-2026-rafael-feitosa-santos.streamlit.app/)
+<a href="https://imersao-alura-dados-python-2026-rafael-feitosa-santos.streamlit.app/" target="_blank">
+👉 <b>Aplicação no Streamlit</b>
+</a>
+
